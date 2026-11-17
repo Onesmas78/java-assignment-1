@@ -2,7 +2,7 @@
 
 This assignment has **15 short exercises** on what you've learned so far: variables, data types, operators, Strings, arrays, `ArrayList`, `HashMap` and `HashSet`. It is checked automatically every time you push your code to GitHub.
 
-**Deadline:** _\<your instructor will fill this in\>_
+**Deadline:** _\24 Nov 2026_
 **Score:** 1 point per exercise, 15 points total.
 
 | File | Exercises | Topics |
